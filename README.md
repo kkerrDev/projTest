@@ -11,4 +11,5 @@ Test Project Repository - testing concepts to apply to capstone project
     - Save
     
 __Here I will pause to switch back to GitHub & attempt to commit my changes to the README.md & upload.__
-    _Can't seem to make any progress coloring text. Bummer_
+
+_Can't seem to make any progress coloring text. Bummer_
