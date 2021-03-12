@@ -11,5 +11,5 @@ Test Project Repository - testing concepts to apply to capstone project
     - Save
     
 
-<span style="color:red">Here I will pause to switch back to GitHub & attempt to commit my changes to the README.md & upload.</span>
+<font color='red'>Here I will pause to switch back to GitHub & attempt to commit my changes to the README.md & upload.</font>
 
