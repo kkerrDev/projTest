@@ -10,5 +10,5 @@ Test Project Repository - testing concepts to apply to capstone project
     - Update README.md.  (Added Steps 2 & 3 to Steps Taken)
     - Save
     
-<p style="color:red;"><b>Here I will pause to switch back to GitHub & attempt to commit my changes to the README.md & upload.</b></p>
+__Here I will pause to switch back to GitHub & attempt to commit my changes to the README.md & upload.__
     _Can't seem to make any progress coloring text. Bummer_
