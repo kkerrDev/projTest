@@ -14,7 +14,7 @@ __Here I will pause to switch back to GitHub & attempt to commit my changes to t
 
 _Can't seem to make any progress coloring text. Bummer_
 
-1. From GitBash, upload changes back to GitHub
+4. From GitBash, upload changes back to GitHub
     - `cd projTest`
     - `git add README.md`
     - `git commit -m "added steps 2 & 3"`
