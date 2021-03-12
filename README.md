@@ -13,3 +13,10 @@ Test Project Repository - testing concepts to apply to capstone project
 __Here I will pause to switch back to GitHub & attempt to commit my changes to the README.md & upload.__
 
 _Can't seem to make any progress coloring text. Bummer_
+
+1. From GitBash, upload changes back to GitHub
+    - `cd projTest`
+    - `git add README.md`
+    - `git commit -m "added steps 2 & 3"`
+    - `git push origin main`
+    
