@@ -10,5 +10,5 @@ Test Project Repository - testing concepts to apply to capstone project
     - Update README.md.  (Added Steps 2 & 3 to Steps Taken)
     - Save
     
-__<font color=red>Here I will pause to switch back to GitHub & attempt to commit my changes to the README.md & upload.</font>__
+<font color=red>__Here I will pause to switch back to GitHub & attempt to commit my changes to the README.md & upload.__</font>
 
